@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "275648602834",
+    "project_id": "onlineshop-c7e17",
+    "storage_bucket": "onlineshop-c7e17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275648602834:android:be9b6c8163419a32df430b",
+        "android_client_info": {
+          "package_name": "com.lolblach333.onlineshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275648602834-l24bofn6vj1dnse291nagvn5g4l0ar2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lolblach333.onlineshop",
+            "certificate_hash": "26cda7faa33339305e61b3359586c8af7f451277"
+          }
+        },
+        {
+          "client_id": "275648602834-2u4g2j07o3ec3jv84o7n8pp580hipj4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeiFvrRmnyzV_qdqrqneD6J5Z9Hx3lA-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275648602834-2u4g2j07o3ec3jv84o7n8pp580hipj4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
